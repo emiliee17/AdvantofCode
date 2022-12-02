@@ -31,7 +31,7 @@ input1.map((x)=>{
                                     score=score+2
                                 } else {
                                     if((x[0]==='C') & (x[1]==='X')) {
-                                        score=score+7}
+                                        score=score+7
                                     }
                                 }
                             }
@@ -40,11 +40,12 @@ input1.map((x)=>{
                 }
             }
         }
-    })
+    }
+})
 
 
 
-console.log(score);
+console.log('Réponse partie un :'+score);
 
 // Part_Two:
 
@@ -76,7 +77,8 @@ input1.map((x)=>{
                             } else {
                                 if((x[0]==='C') & (x[1]==='X')) {
                                     score1=score1+2
-                                }}
+                                }
+                            }
                         }
                     }
                 }
@@ -85,4 +87,4 @@ input1.map((x)=>{
     }}
 })
 
-console.log(score1);
+console.log('Réponse partie deux :'+score1);
