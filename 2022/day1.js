@@ -1,6 +1,6 @@
 import * as fs from 'fs';
 
-const input = fs.readFileSync("input.txt",'utf-8').split('\n\n');
+const input = fs.readFileSync("data/input1.txt",'utf-8').split('\n\n');
 const input1= input.map((x)=>x.split('\n').map(Number));
 const calories =input1.map((x)=>x.reduce((acc,curr)=> acc+curr));
 //Part_One:
