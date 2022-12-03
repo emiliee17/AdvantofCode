@@ -1,11 +1,16 @@
 Day1 : 
 
-Difficultés : Aucune 
+- Difficultés : Aucune 
 
 ---
 Day2 :
+
+- Difficultés : Aucune
 ---
 Day3:
+
+
+- Difficultés : Les indices à gérer. 
 ---
 Day4:
 ---
