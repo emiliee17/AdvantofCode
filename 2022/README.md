@@ -8,11 +8,11 @@ Day2 :
 - Difficultés : Aucune
 ---
 Day3:
-
-
-- Difficultés : Les indices à gérer. 
+- Difficultés : Les indices à gérer et la compléxité.
 ---
 Day4:
+
+Difficultés : Aucune
 ---
 Day5:
 ---
