@@ -17,6 +17,10 @@ Difficultés : Aucune
 Day5:
 ---
 Day6:
+
+Difficultés: 
+
+- Faire fonction qui repère les doublons dans un array sans monter en complexité.
 ---
 Day7:
 ---
