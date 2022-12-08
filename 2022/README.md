@@ -25,6 +25,8 @@ Difficultés:
 Day7:
 ---
 Day8:
+
+- Difficultés : Gérer les bords 
 ---
 Day9:
 ---
