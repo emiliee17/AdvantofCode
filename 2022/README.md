@@ -52,7 +52,7 @@ Day19:
 ---
 Day20:
 ---
-Day21:
+Day21: Gérer la récurssivité. Algorithme très récurssif
 ---
 Day22:
 ---
