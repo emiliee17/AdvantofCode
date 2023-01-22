@@ -1,7 +1,5 @@
 import * as fs from 'fs';
-import { findSourceMap } from 'module';
-import { emitKeypressEvents } from 'readline';
-import { compileFunction } from 'vm';
+
 
 const input = fs.readFileSync("data/input21.txt",'utf-8').split('\n');
 const input1=input.map((x)=>x.split(/[: ]/));
